@@ -7,6 +7,8 @@
 // @match        https://www.notion.so/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL   https://cdn.jsdelivr.net/gh/Ousinki/notion-anki-userscripts@main/notion-toggle-hover.user.js
+// @downloadURL https://cdn.jsdelivr.net/gh/Ousinki/notion-anki-userscripts@main/notion-toggle-hover.user.js
 // ==/UserScript==
 
 (function () {
