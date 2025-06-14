@@ -19,6 +19,7 @@
    - `⌘ + E` on macOS
    - `Ctrl + E` on Windows/Linux
 3. That toggle alone will open or collapse.
+4. For Mac users, it is recommended to use this script together with BetterTouchTool, which allows you to map the shortcut keys to trackpad gestures (such as a three-finger tap) for even faster operation.
 
 ---
 
